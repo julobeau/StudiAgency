@@ -1,0 +1,61 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.container-carousel{
+    width: 75%;
+
+}
+header {
+    height: 50%;
+}
+.logo-studi {
+    width: 50px;
+}
+
+.text-carousel{
+    background-color: rgba(0.5, 0.5, 0.5, 0.5);
+    position:absolute;
+    top: 20%;
+    left: 10%;
+    z-index: 12;
+    text-align: left;
+    width: fit-content;
+    max-width: 50%;
+    height: auto;
+    color: white;
+    padding: 10px;
+}
+
+.accueil{
+    background-color: white;
+    font-family: futura, Verdana, sans-serif;
+}
+
+.formation{
+    background-color: bisque;
+}
+
+.alternance{
+    background: linear-gradient(90deg,#ed9206, #31406a);
+}
+
+.contact-titre, .formation-titre{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.annonce{
+    max-width: 300px;
+}
+
+.nav-link{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/*.nav-link:hover{
+    color: black;
+}*/
+
